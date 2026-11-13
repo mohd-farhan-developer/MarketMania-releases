@@ -1,7 +1,7 @@
 {
-    "versionCode":  99,
-    "versionName":  "7.1.0",
+    "versionCode":  100,
+    "versionName":  "1.0",
     "releaseNotes":  "",
-    "apkUrl":  "https://raw.githubusercontent.com/mohd-farhan-developer/MarketMania-releases/main/MarketMania-v7.1.0.apk",
-    "sha256":  "a49cdbc8cdbae266a7e74a1e9dd3c6490ab7b1628a0a0efc25ac55c3c5444896"
+    "apkUrl":  "https://raw.githubusercontent.com/mohd-farhan-developer/MarketMania-releases/main/MarketMania-v1.0.apk",
+    "sha256":  "6e46c449b33349028ac6986a1db6a67c2b3efb1d0aab9c90eeadb95cca798b67"
 }
